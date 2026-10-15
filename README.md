@@ -12,9 +12,10 @@ DuckDB: local analytical database
 
 dbt: transformations and tests (planned)
 
+## Setup
+
 **Requirements**: Git, Python 3.13, an approved Etsy Open API v3 app.
 
-## Setup
 
 - Make sure to have an approved ETSY_API_KEY and ETSY_SHARED_SECRET in hand 
 - Clone the repository 
